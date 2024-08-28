@@ -14,5 +14,6 @@
 - ### Profitability Ratio
   Profitability ratios is the ratio that used to measure and evaluate the ability of a company to generate income (profit) relative to revenue, balance sheet assets, operating costs, and shareholders’ equity during a specific period of time.
   They show how well a company utilizes its assets to produce profit and value to shareholders.
+  ![Screenshot 2024-08-29 005758](https://github.com/user-attachments/assets/95091f09-d003-4399-ba4b-bd42a2e14586) 
 - ### Turnover Ratio
   
