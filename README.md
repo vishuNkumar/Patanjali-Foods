@@ -38,5 +38,6 @@ DuPont analysis is a powerful tool used to dissect a company's return on equity 
 - (PBIT/Sales) = Operating Profit Margin
 - (Sales/Total Assets) = Total Asset Turnover Ratio
 - (Total Assets/Net Worth) = Leverage Ratio
-
-
+![Screenshot 2024-08-29 014136](https://github.com/user-attachments/assets/6ccf6fd7-4468-49f7-8c83-c9fb8909851f)
+## Conclusion
+Based on the investigation, it seems like Patanjali Foods can enhance its operational efficiency and sustain profitability. On the other hand, issues with asset utilisation, a growing dependence on debt financing, and diminishing returns for shareholders point to areas that require more focus. If Patanjali Foods wants to maintain long-term growth and profitability in the cutthroat automotive sector, it may need to concentrate on improving asset management, reducing debt, and putting plans in place to increase shareholder value.
