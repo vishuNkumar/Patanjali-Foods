@@ -29,4 +29,14 @@
 ![Screenshot 2024-08-29 011201](https://github.com/user-attachments/assets/3b1739c9-9fdc-47bd-b6d3-7d1ad004c88e)
 ## Market Analysis
 Patanjali Foods emerges as a key player in the market with strong financial performance and a significant presence. However, each company's performance should be analyzed in the context of its industry, market conditions, and growth prospects.
+![Screenshot 2024-08-29 013219](https://github.com/user-attachments/assets/ad4ef2bf-cfd6-4343-bd75-2f52a3cc591a)
+## DuPont Analysis
+DuPont analysis is a powerful tool used to dissect a company's return on equity (ROE) into its underlying components, namely profitability, efficiency, and leverage. Here's how we can perform DuPont analysis for TVS Motor Company based on the provided financial data:
+- ROE = (PAT/PBT).(PBT/PBIT).(PBIT/SALES).(SALES/TOTAL ASSETS).(TOTAL ASSETS/NET WORTH)
+- (PAT/PBT) = Tax Burden
+- (PBT/PBIT) = Interest Burden
+- (PBIT/Sales) = Operating Profit Margin
+- (Sales/Total Assets) = Total Asset Turnover Ratio
+- (Total Assets/Net Worth) = Leverage Ratio
+
 
