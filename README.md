@@ -1,4 +1,4 @@
-# Patanjali-Foods
+# Analysis of Financial Performance of Patanjali-Foods
 - College Project given by "Prof. Dheeraj Mishra" faculty of Managerial Finance.
 ##  Introduction
 - ### Overview:
